@@ -59,3 +59,7 @@ python3 -m pytest tests/
 
 Python 3.9 or later. No dependencies beyond the standard library, plus PyMuPDF
 or `pdftotext` to read PDFs.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
